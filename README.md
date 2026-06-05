@@ -1,6 +1,7 @@
 # Hi there 👋 I'm Rehan Shaik
 
 ## About Me
+💼 Seeking Internship Opportunities in Frontend Development and Web Technologies
 
 🎓 B.Tech Computer Science Engineering Student
 
