@@ -1,16 +1,50 @@
-## Hi there 👋
+# Hi there 👋 I'm Rehan Shaik
 
-<!--
-**RehanShaik09/RehanShaik09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+🎓 B.Tech Computer Science Engineering Student
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Interested in Frontend Development, React JS, AI Tools and Web Technologies
+
+🚀 Currently learning React JS and Modern Web Development
+
+🌱 Building projects using HTML, CSS, JavaScript and AI-assisted development tools
+
+## Technical Skills
+
+* HTML5
+* CSS3
+* JavaScript
+* React JS
+* Python
+* SQL
+* Git & GitHub
+* VS Code
+* AI Tools
+* Prompt Engineering
+
+## Projects
+
+### Fashion Hub - E-Commerce Website
+
+Multi-page e-commerce website built using HTML, CSS and JavaScript.
+
+### Quantum Gadgets Website
+
+Product-focused website developed using Wix Studio.
+
+### AgriHub
+
+Agriculture-focused website developed as part of Telangana X × NxtWave initiative.
+
+## Connect With Me
+
+LinkedIn:
+[www.linkedin.com/in/rehan-shaik-04278a343/](http://www.linkedin.com/in/rehan-shaik-04278a343/)
+
+Email:
+[rehanroshan09@gmail.com](mailto:rehanroshan09@gmail.com)
+
+---
+
+⭐ Always learning, building and improving.
